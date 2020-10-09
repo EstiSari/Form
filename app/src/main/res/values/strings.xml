@@ -1,0 +1,36 @@
+<resources>
+    <string name="app_name">FORM</string>
+    <string-array name="jurusan">
+        <item>Akuntansi</item>
+        <item>Administrasi Niaga</item>
+        <item>Teknik Sipil</item>
+        <item>Teknik Informatika</item>
+        <item>Teknik Mesin</item>
+    </string-array>
+    <string-array name="major">
+        <item>Magister Manajemen</item>
+        <item>Department of Chemistry</item>
+        <item>Biomedical Engineering</item>
+        <item>Myers School of Art</item>
+        <item>Department of Criminal Justice Studies</item>
+
+    </string-array>
+    <string-array name="status">
+        <item>Baru</item>
+        <item>Lama</item>
+
+    </string-array>
+    <string-array name="gender">
+        <item>Laki- Laki</item>
+        <item>Perempuan</item>
+
+    </string-array>
+    <string-array name="agama">
+        <item>Islam</item>
+        <item>Hindu</item>
+        <item>Kristen</item>
+        <item>Budha</item>
+        <item>Konghucu</item>
+
+    </string-array>
+</resources>
